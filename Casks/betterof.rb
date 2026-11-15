@@ -1,6 +1,6 @@
 cask "betterof" do
-  version "0.13.0"
-  sha256 "23581ae57bec1786446428e959f76f718b7eb5e7a46e00e705da7a8377475e62"
+  version "0.14.0"
+  sha256 "9149a748d3a9674f49bde93fb871a6035badc227929dc8f185dd0d49a276877a"
 
   # The source repository is private, so release builds are mirrored to this tap's releases.
   url "https://github.com/Jaschenn/homebrew-tap/releases/download/betterof-v#{version}/betterOF-#{version}-macOS.zip"
